@@ -1,14 +1,18 @@
 # 👨‍💻 Fernando Pasqualini
 
-**`Analista e Desenvolvedor de sistemas em formação`**
+**`Architect & Software Engineering Student`**
 
 <div style="text-align: justify;">
-Olá, me chamo Fernando Pasqualini. Sou Arquiteto e Urbanista de formação e atualmente graduando em Análise e Desenvolvimento de Sistemas na UMESP. Uno o rigor do design projetual à lógica computacional. Minha experiência com projetos complexos e modelagem avançada fundamenta uma visão sistêmica e modular, essencial para o desenvolvimento de software. Com base em algoritmos e proficiência em linguagens de programação, busco aplicar minha capacidade analítica e organização técnica na criação de soluções tecnológicas robustas, eficientes e focadas na excelência estrutural.
+I'm an Information Technology student (Systems Analysis and Development) at Universidade Metodista de São Paulo (UMESP), currently strengthening my Computer Science foundation through Harvard's CS50.
+
+With a background in Architecture and Urbanism, I bring a structured and systems-oriented approach to software development — applying principles such as modular design, project organization, and scalability.
+
+Focused on software engineering fundamentals, I aim to write clean, efficient, and maintainable code while continuously evolving through hands-on projects and consistent study.
 </div>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages and Technologies
 
 <a href="https://en.cppreference.com/w/c" target="_blank"><img align="left" alt="C" title="C" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" /></a>
 <a href="https://www.python.org/" target="_blank"><img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /></a>
@@ -25,7 +29,7 @@ Olá, me chamo Fernando Pasqualini. Sou Arquiteto e Urbanista de formação e at
 <br clear="all" />
 <br />
 
-### 📊 Estatísticas
+### 📊 Statistics
 
 <p align="left">
   <img 
@@ -33,15 +37,16 @@ Olá, me chamo Fernando Pasqualini. Sou Arquiteto e Urbanista de formação e at
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=fernandopasq&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=fernandopasq&show_icons=true&theme=tokyonight&include_all_commits=true" 
   />
 
-  <img 
+<img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandopasq&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandopasq&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" 
   />
+
 </p>
 
 <br clear="all" />
@@ -49,7 +54,7 @@ Olá, me chamo Fernando Pasqualini. Sou Arquiteto e Urbanista de formação e at
 
 ---
 
-<h3 align="left">Conecte-se comigo:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/fernando-pasqualini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fernando-pasqualini" height="30" width="40" /></a>
 </p>
