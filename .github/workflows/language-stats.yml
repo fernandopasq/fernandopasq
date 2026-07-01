@@ -18,7 +18,7 @@ jobs:
         uses: StefVuck/Github-Language-Stats@v1.2.0
         with:
           # Puxa o token que escondemos nos Secrets
-          token: ${{ secrets.STATS_TOKEN }}
+          github_token: ${{ secrets.STATS_TOKEN }}
 
       - name: Commit & Push Changes
         run: |
