@@ -20,10 +20,10 @@ jobs:
           # Puxa o token que escondemos nos Secrets
           github_token: ${{ secrets.STATS_TOKEN }}
 
-      - name: Commit & Push Changes
+- name: Commit & Push Changes
         run: |
           git config --global user.name "github-actions[bot]"
-          git config --global user-name "github-actions[bot]@users.noreply.github.com"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add .
           git diff-index --quiet HEAD || git commit -m "Update profile language stats"
           git push
