@@ -28,6 +28,15 @@ Focused on software engineering fundamentals, I aim to write clean, efficient, a
 
 <br clear="all" />
 <br />
+
+---
+
+### 📊 Profile Metrics
+
+<p align="center">
+  <img src="github-stats/donut_by_weighted.png" alt="Language Analytics Donut Chart" width="500px" />
+</p>
+
 <br clear="all" />
 <br />
 
