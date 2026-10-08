@@ -3,11 +3,9 @@
 **`Architect & Software Engineering Student`**
 
 <div style="text-align: justify;">
-I'm an Information Technology student (Systems Analysis and Development) at Universidade Metodista de São Paulo (UMESP), currently strengthening my Computer Science foundation through Harvard's CS50.
+Systems Analysis and Development student at UMESP and CS50 (Harvard/edX) graduate transitioning from Architecture to Software Engineering.
 
-With a background in Architecture and Urbanism, I bring a structured and systems-oriented approach to software development — applying principles such as modular design, project organization, and scalability.
-
-Focused on software engineering fundamentals, I aim to write clean, efficient, and maintainable code while continuously evolving through hands-on projects and consistent study.
+Leveraging a strong background in spatial logic, modular design, and systems thinking, I build clean, efficient full-stack applications. Passionate about software engineering fundamentals, database modeling (SQL), containerization (Docker), and clean code in Python and C.
 </div>
 
 ---
